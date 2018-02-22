@@ -1,0 +1,1 @@
+Implemented three classification algorithms: Nearest Neighbor, Decision Tree, and Naïve Bayes to classify new gene data into labels. Also implemented Random Forests and Boosting to improve the performance of decision tree algorithm. Applied 10-fold Cross Validation to evaluate the performance of all methods in terms of Accuracy, Precision, Recall, and F-1 measure.
